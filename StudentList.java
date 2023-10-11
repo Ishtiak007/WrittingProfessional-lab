@@ -99,7 +99,7 @@ else if(args[0].contains("c")){
                 if(c==' '){
                     if(!in_word){
                         count++;
-                        in_word =true;g
+                        in_word =true;
                     }else{
                         in_word=false;
                     }
